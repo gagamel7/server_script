@@ -1,3 +1,1 @@
-# seracript
-3rd ccc
-aaa
+server_script
