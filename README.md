@@ -1,2 +1,2 @@
-# server_script
+# serverscript
 2nd change
